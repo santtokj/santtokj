@@ -4,4 +4,4 @@
 ### 🔮 Amuletos Equipados (Tech Stack)
 - 🧭 **Python** (Wayward Compass - Para nunca se perder na lógica)
 - 🛡️ **SQL** (Baldur Shell - Proteção para os dados)
-- ⚡ **Java** (Quick Slash - Rapidez de execução)
+- 🕸️ **HTML & CSS** (Quick Slash - Rapidez de execução)
