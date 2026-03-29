@@ -5,3 +5,6 @@
 - 🧭 **Python** (Wayward Compass - Para nunca se perder na lógica)
 - 🛡️ **SQL** (Baldur Shell - Proteção para os dados)
 - 🕸️ **HTML & CSS** (Quick Slash - Rapidez de execução)
+
+### 🔮 Principais projetos
+- 📦 **Sistema de Gerenciamento (CRUD):** Desenvolvi uma aplicação completa em Python com persistência de dados e interface gráfica, focada em usabilidade.
