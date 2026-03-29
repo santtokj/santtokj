@@ -1,4 +1,4 @@
-# ⚔️ [Santtokj] | Wanderer of Hallownest
+# ⚔️ Santtokj | Wanderer of Hallownest
 > "Nenhum custo é alto demais para o código perfeito."
 
 ### 🔮 Amuletos Equipados (Tech Stack)
