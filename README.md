@@ -9,4 +9,4 @@
 - ⚡ **Java** (Quick Slash - Rapidez de execução)
 
 ### 📊 Vitalidade e Alma
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USER&show_icons=true&theme=tokyonight&hide_border=true)
+[![Santtokj Stats](https://github-readme-stats.vercel.app/api?username=Santtokj&show_icons=true&theme=shadowcurse&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
