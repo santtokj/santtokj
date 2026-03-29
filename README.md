@@ -3,7 +3,7 @@
 
 ![Hollow Knight Resting](https://raw.githubusercontent.com/Santtokj/Santtokj/main/hollow-knight-resting.gif)
 
-### 🌑 Amuletos Equipados (Tech Stack)
+### 🔮 Amuletos Equipados (Tech Stack)
 - 🧭 **Python** (Wayward Compass - Para nunca se perder na lógica)
 - 🛡️ **SQL** (Baldur Shell - Proteção para os dados)
 - ⚡ **Java** (Quick Slash - Rapidez de execução)
